@@ -1,0 +1,12 @@
+p {
+   color: red;
+}
+/* #id para se referenciar a ID a elemento unico
+.classe para classe englobar elementos para uma unica funcao
+nth-of-type escolho o paragrafo que sofrera mudanca algo especifico
+p:hover para modficar 
+*/
+p:hover{
+   color: blue;
+   text-decoration: underline;
+}
